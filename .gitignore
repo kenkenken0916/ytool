@@ -1,0 +1,31 @@
+# 忽略 Python 相關檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 VS Code 設定
+.vscode/
+
+# 忽略 Windows 系統檔案
+Thumbs.db
+Desktop.ini
+
+# 忽略 ffmpeg 工具
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# 忽略批次檔
+multi.bat
+urls.txt
+
+# 忽略環境設定
+.env
+
+# 忽略日誌檔
+*.log
+
+# 忽略其他常見檔案
+*.bak
+*.tmp
