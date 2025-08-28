@@ -5,7 +5,7 @@ A simple cross-platform YouTube downloader wrapper using yt-dlp.
 ## Install
 
 ```bash
-git clone https://github.com/yourname/ytool.git
+git clone https://github.com/kenkenken0916/ytool.git
 ```
 
 ## Requirement
