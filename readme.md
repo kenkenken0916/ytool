@@ -13,7 +13,7 @@ git clone https://github.com/kenkenken0916/ytool.git
 ### yt-dlp
 
 ```bash
-python -m pip install -r requirements.txt
+python -m pip install yt-dlp
 ```
 
 ### ffmpeg
